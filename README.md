@@ -41,11 +41,19 @@ The project follows a clean and modular architecture, with the following key com
    <code>flutter run</code>
    </pre>
 4. Screenshots of the App
-   
-![Todo App Screenshot]("images/screen_1.png")![Todo App Screenshot]("images/screen_2.png")![Todo App Screenshot]("images/screen_3.png")
 
-* ---
-![Todo App Screenshot]("images/screen_4.png")![Todo App Screenshot]("images/screen_5.png")![Todo App Screenshot]("images/screen_6.png")
-
-*   ---
-![Todo App Screenshot]("images/screen_7.png")![Todo App Screenshot]("images/screen_8.png")![Todo App Screenshot]("images/screen_9.png")
+<p align="center">
+  <img alt="Todo App Screenshot" src="images/screen_1.png" width="260">&nbsp;&nbsp;&nbsp;
+  <img alt="Todo App Screenshot" src="images/screen_2.png" width="260">&nbsp;&nbsp;&nbsp;
+  <img alt="Todo App Screenshot" src="images/screen_3.png" width="260">
+</p>
+<p align="center">
+  <img alt="Todo App Screenshot" src="images/screen_4.png" width="260">&nbsp;&nbsp;&nbsp;
+  <img alt="Todo App Screenshot" src="images/screen_5.png" width="260">&nbsp;&nbsp;&nbsp;
+  <img alt="Todo App Screenshot" src="images/screen_6.png" width="260">
+</p>
+<p align="center">
+  <img alt="Todo App Screenshot" src="images/screen_7.png" width="260">&nbsp;&nbsp;&nbsp;
+  <img alt="Todo App Screenshot" src="images/screen_8.png" width="260">&nbsp;&nbsp;&nbsp;
+  <img alt="Todo App Screenshot" src="images/screen_9.png" width="260">
+</p>
